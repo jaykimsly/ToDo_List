@@ -1,2 +1,2 @@
 # ToDo_List
-somple task planner
+simple task planner
